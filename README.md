@@ -32,3 +32,5 @@ All designs in this repository adhere to international and national electrical s
 - **Enclosure Design:** Optimized for thermal management and environmental protection.
 - **Safety Features:** Integration of proper grounding, interlocking systems, and protection relays.
 - **Layout:** Logical arrangement for easy maintenance and expansion.
+images/image_gen_05f21853-5018-4a0a-be51-623b60002856_0 .png
+images /image_gen_076bae64-d52d-48b4-a1d1-136b90c39aca_0.png
